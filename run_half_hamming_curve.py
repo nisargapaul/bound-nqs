@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Compute entropy curves for the half-Hamming constructive state."""
+"""Compute entropy curves for the Dicke state."""
 
 from __future__ import annotations
 
